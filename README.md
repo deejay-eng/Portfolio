@@ -23,7 +23,7 @@ Projects-
 ## 📫 Contact Me  
 📧 Email: jaindhaani0919@gmail.com
 💼 LinkedIn: www.linkedin.com/in/dhaani-jain-09b9482a0  
-💻 GitHub: [[github.com/your-github](https://github.com/your-github)](https://github.com/Dhaani09)  
+💻 GitHub: https://github.com/Dhaani09
 🌐 Portfolio: https://dhaani09.github.io/Portfolio/ 
 
 ---
