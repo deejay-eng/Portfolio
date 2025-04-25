@@ -9,14 +9,17 @@ Welcome to my personal portfolio! This repository contains the source code for m
 
 ## 🔗 Live Portfolio  
 
-[Visit My Portfolio]([your-portfolio-link-here](https://dhaani09.github.io/Portfolio/))  
+[Visit My Portfolio]([your-portfolio-link-here]( https://kaanchiiii.github.io/Portfolio/ ))  
 
 ---
 ## 👩‍💻 About Me  
 
 Hi, I'm **Dhaani**, a passionate software developer with a keen interest in **web development, data visualization, and problem-solving**. I love building efficient and user-friendly applications while continuously learning new technologies.  
 
-![WhatsApp Image 2025-04-02 at 21 24 41_9476dbe3](https://github.com/user-attachments/assets/3604dec9-1e23-4776-baaf-945cdb12b731)
+![image](https://github.com/user-attachments/assets/f9044f66-9d48-4f1b-8be9-e7d72ab2e6bf)
+
+![image](https://github.com/user-attachments/assets/8f69811f-7fa8-466a-bd72-e492d7ab3273)
+
 ![WhatsApp Image 2025-04-02 at 21 24 56_139eb173](https://github.com/user-attachments/assets/d28f2b47-a042-41a5-8f4f-c1ff8ecea12a)
 
 ------------------
