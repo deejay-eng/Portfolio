@@ -9,7 +9,7 @@ Welcome to my personal portfolio! This repository contains the source code for m
 
 ## 🔗 Live Portfolio  
 
-[Visit My Portfolio]([your-portfolio-link-here]( https://kaanchiiii.github.io/Portfolio/ ))  
+[Visit My Portfolio](( https://kaanchiiii.github.io/Portfolio/ ))  
 
 ---
 ## 👩‍💻 About Me  
