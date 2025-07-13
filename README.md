@@ -38,7 +38,7 @@ Projects-
 📧 Email: jaindhaani0919@gmail.com
 💼 LinkedIn: www.linkedin.com/in/dhaani-jain-09b9482a0  
 💻 GitHub: https://github.com/deejay-eng
-🌐 Portfolio: https://kaanchiiii.github.io/Portfolio/ 
+🌐 Portfolio: https://deejay-eng.github.io/Portfolio/
 
 ---
 
